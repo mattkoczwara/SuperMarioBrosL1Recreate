@@ -22,4 +22,4 @@ Super Mario Bros Level One Recreation
 
 <strong>To Run:</strong> Download MarioProject folder, import project into Visual Studio, and run "Sprint0.sln" solution file.
 
-<strong>Main Code Files:</strong> / MarioProject / Sprint 1 / Sprint0_ZB / Sprint0 / Sprint0 / Sprint0 
+<strong>Main Code Files:</strong> / MarioProject / Sprint0 / Sprint0 / Sprint0 
