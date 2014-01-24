@@ -1,7 +1,5 @@
-Super Mario Bros Level One Recreation 
+Super Mario Bros. (NES) Level One Recreation
 ========================
-
-<h4>Recreation of the first level of Super Mario Bros. (NES).</h4>
 
 ![alt tag](https://raw.github.com/mattkoczwara/SuperMarioBrosL1Recreate/master/readme_res/Opening%20Screen.JPG)
 
