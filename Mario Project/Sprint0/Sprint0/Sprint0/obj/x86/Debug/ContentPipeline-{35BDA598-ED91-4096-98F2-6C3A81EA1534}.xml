@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>smb_mario_sheet.png</Source>
+      <Name>smb_mario_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\smb_mario_sheet.xnb</Output>
+      <Time>2013-10-11T09:26:39.5642563-04:00</Time>
+    </Item>
+    <Item>
+      <Source>items.png</Source>
+      <Name>items</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\items.xnb</Output>
+      <Time>2013-10-13T18:21:04.1978048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>itemsObjects.png</Source>
+      <Name>itemsObjects</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\itemsObjects.xnb</Output>
+      <Time>2013-10-11T09:36:05.0696014-04:00</Time>
+    </Item>
+    <Item>
+      <Source>enemies.png</Source>
+      <Name>enemies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\enemies.xnb</Output>
+      <Time>2013-10-11T08:15:49.665176-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-1.png</Source>
+      <Name>1-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\1-1.xnb</Output>
+      <Time>2013-10-28T17:23:13.8408699-04:00</Time>
+    </Item>
+    <Item>
+      <Source>overworldMT.mp3</Source>
+      <Name>overworldMT</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\overworldMT.xnb</Output>
+      <Extra>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\overworldMT.wma</Extra>
+      <Time>2013-10-28T21:39:33.7165485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>marioJump.wav</Source>
+      <Name>marioJump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\marioJump.xnb</Output>
+      <Time>2013-10-28T21:39:33.3345266-04:00</Time>
+    </Item>
+    <Item>
+      <Source>marioBump.wav</Source>
+      <Name>marioBump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\marioBump.xnb</Output>
+      <Time>2013-10-28T21:39:33.1535163-04:00</Time>
+    </Item>
+    <Item>
+      <Source>marioStomp.wav</Source>
+      <Name>marioStomp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\marioStomp.xnb</Output>
+      <Time>2013-10-28T21:39:33.2155198-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{35BDA598-ED91-4096-98F2-6C3A81EA1534}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\Team Folder\Sprint0\Sprint0\Sprint0\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-28T11:52:05.5689096-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
