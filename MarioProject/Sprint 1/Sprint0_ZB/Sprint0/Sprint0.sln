@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint0", "Sprint0\Sprint0\Sprint0.csproj", "{FE4B090E-827D-42FA-B838-B9F74EF158B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint0Content", "Sprint0\Sprint0Content\Sprint0Content.contentproj", "{35BDA598-ED91-4096-98F2-6C3A81EA1534}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tbdx1.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Sprint0\\Sprint0\\Sprint0.csproj
+		SccProjectName1 = Sprint0/Sprint0
+		SccLocalPath1 = Sprint0\\Sprint0
+		SccProjectUniqueName2 = Sprint0\\Sprint0Content\\Sprint0Content.contentproj
+		SccProjectName2 = Sprint0/Sprint0Content
+		SccLocalPath2 = Sprint0\\Sprint0Content
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4B090E-827D-42FA-B838-B9F74EF158B4}.Debug|x86.ActiveCfg = Debug|x86
+		{FE4B090E-827D-42FA-B838-B9F74EF158B4}.Debug|x86.Build.0 = Debug|x86
+		{FE4B090E-827D-42FA-B838-B9F74EF158B4}.Release|x86.ActiveCfg = Release|x86
+		{FE4B090E-827D-42FA-B838-B9F74EF158B4}.Release|x86.Build.0 = Release|x86
+		{35BDA598-ED91-4096-98F2-6C3A81EA1534}.Debug|x86.ActiveCfg = Debug|x86
+		{35BDA598-ED91-4096-98F2-6C3A81EA1534}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
