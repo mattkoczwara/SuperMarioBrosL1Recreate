@@ -1,4 +1,4 @@
-Super Mario Bros. (NES) Level One Recreation
+<h1>Super Mario Bros. (NES) Level One Recreation</h1>
 ========================
 
 ![alt tag](https://raw.github.com/mattkoczwara/SuperMarioBrosL1Recreate/master/readme_res/Opening%20Screen.JPG)
